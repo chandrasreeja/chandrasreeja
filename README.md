@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chandrasreeja
 - 👀 I’m interested in Frontend Web Development.
-- Skills - C++, HTML, CSS, Angular, DSA
+- Skills - C++, HTML, CSS, Bootstrap, Angular, DSA
 - 📫 Connect with me -> https://www.linkedin.com/in/chandrasreeja/
 
 <!---
