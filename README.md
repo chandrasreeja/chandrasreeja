@@ -2,6 +2,7 @@
 - 👀 I’m interested in Frontend Web Development.
 - Skills - C++, HTML, CSS, Bootstrap, Angular, DSA, Git
 - 📫 Connect with me -> https://www.linkedin.com/in/chandrasreeja/
+- Mail : chandrasreeja.ch@gmail.com
 - My blog : https://www.commudle.com/labs/array-rotation-4d895a05-7b9b-4545-b9dd-4af42e63bec9/steps/81905
 
 <!---
